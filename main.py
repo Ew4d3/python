@@ -21,4 +21,13 @@ if __name__ == "__main__":
     numbers = [2, 7, 11, 15]
     target = 9
     print(two_sum(numbers, target))  # Output: [0, 1]
+
+
+##
+#if __name__ == "__main__":
+#    numbers = [3, 2, 4]
+#    target = 6
+#    print(two_sum(numbers, target))  # Output: [1, 2]
+
+
  
